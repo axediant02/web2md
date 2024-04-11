@@ -1,5 +1,6 @@
+// test
 
-const words = ["Hello, World!", "Welcome to my website!", "This is a typewriter effect."];
+const words = ["Hello, World!", "Welcome to my website!", "This is a Ian Caballero."];
 let i = 0;
 let j = 0;
 let currentWord = "";
